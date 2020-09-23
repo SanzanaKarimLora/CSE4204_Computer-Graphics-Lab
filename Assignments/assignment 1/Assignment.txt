@@ -1,0 +1,4 @@
+Week - 2 
+- Draw Red triangle
+- Online will be on this topic
+- A good resource on WebGL: http://math.hws.edu/graphicsbook/c6/index.html
